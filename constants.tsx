@@ -7,6 +7,7 @@ export const CATEGORIES: MockupCategory[] = [
   { id: 'storefront', name: 'Fachada', icon: BuildingStorefrontIcon },
   { id: 'packaging', name: 'Embalagem', icon: PackageIcon },
   { id: 'stationery', name: 'Papelaria', icon: NewspaperIcon },
+  { id: 'letterhead', name: 'Papel Timbrado', icon: NewspaperIcon },
   { id: 'mobile', name: 'Mobile', icon: DevicePhoneMobileIcon },
   { id: 'desktop', name: 'Desktop', icon: ComputerDesktopIcon },
   { id: 'tablet', name: 'Tablet', icon: DeviceTabletIcon },
