@@ -1,15 +1,14 @@
-
 import React from 'react';
 
 export const ShirtIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" {...props}>
-    <path strokeLinecap="round" strokeLinejoin="round" d="M11.25 4.5l7.5 7.5-7.5 7.5m-6-15l7.5 7.5-7.5 7.5" />
+    <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 12c.07.658-.463 1.243-1.119 1.243H4.25a1.125 1.125 0 01-1.12-1.243l1.264-12A1.125 1.125 0 015.513 7.5h12.974c.576 0 1.059.435 1.119 1.007zM8.625 10.5a.375.375 0 11-.75 0 .375.375 0 01.75 0zm7.5 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
   </svg>
 );
 
 export const BuildingStorefrontIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" {...props}>
-    <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 21v-7.5a.75.75 0 01.75-.75h3a.75.75 0 01.75.75V21m-4.5 0H2.25pc-1.5 0-1.5-.75-1.5-1.5V5.25A2.25 2.25 0 014.5 3h15a2.25 2.25 0 012.25 2.25v13.5a2.25 2.25 0 01-2.25 2.25H18M18.75 3.75h.008v.008h-.008V3.75zM18 8.25h.008v.008H18V8.25z" />
+    <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 21v-7.5a.75.75 0 01.75-.75h3a.75.75 0 01.75.75V21m-4.5 0H2.25a2.25 2.25 0 01-2.25-2.25V5.25A2.25 2.25 0 014.5 3h15a2.25 2.25 0 012.25 2.25v13.5a2.25 2.25 0 01-2.25 2.25H18M18.75 3.75h.008v.008h-.008V3.75zM18 8.25h.008v.008H18V8.25z" />
   </svg>
 );
 export const PackageIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
